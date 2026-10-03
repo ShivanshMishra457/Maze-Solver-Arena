@@ -1,6 +1,6 @@
 MEMBERS-
 - Shivansh Mishra [25MVCSMR0358]
-- Rohan Kumar Samal [[25MVCSMR0349]
+- Rohan Kumar Samal [25MVCSMR0349]
 - Kunal Mogra [25MVCSMR0320]
 - E. Harshith [25MVCSMR0303]
 
